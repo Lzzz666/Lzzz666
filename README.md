@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Kevin<br>Passionate about blockchain, financial tech, software engineering and networks.<br>🌱 I’m currently learning Airflow, Hyperledger Fabric.<br><br>📫 How to reach me lzyu0926@gmail.com<br><br>⚡ Fun fact Offline debug mode = midnight claw‑machines 🧸 and shrimp‑fishing ponds 🦐 across Taiwan.
+Hi 👋, I'm Kevin<br>Passionate about blockchain, financial tech, software engineering and networks.<br>🌱 I’m currently learning Airflow, Hyperledger Fabric.<br><br>📫 How to reach me: lzyu0926@gmail.com<br><br>⚡ Fun fact Offline debug mode = midnight claw‑machines 🧸 and shrimp‑fishing ponds 🦐 across Taiwan.
 
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
