@@ -1,0 +1,31 @@
+name: Generate Snake 🐍
+
+on:
+  # 每天凌晨 0:00（UTC+0）跑一次；要改時區就調 cron
+  schedule:
+    - cron: "0 0 * * *"
+  # 也允許手動觸發
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3.3.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake.gif
+
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          build_dir: dist          
+          target_branch: output  
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
