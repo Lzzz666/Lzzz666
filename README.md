@@ -7,6 +7,6 @@ Hi 👋, I'm Kevin<br>Passionate about blockchain, financial tech, software engi
 ![](https://nirzak-streak-stats.vercel.app/?user=Lzzz666&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lzzz666&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://raw.githubusercontent.com/Lzzz666/Lzzz666/output/github-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Lzzz666/Lzzz666/output/github-snake-dark.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
