@@ -1,5 +1,11 @@
 name: GitHub Snake Game
 
+
+permissions:
+  contents: write      # 讓 bot 可以 push
+  pages: write         # 若你要發布到 gh‑pages，可選
+  id-token: write      # 若之後要用 GitHub Pages OIDC, 可選
+
 on:
   # Schedule the workflow to run daily at midnight UTC
   schedule:
